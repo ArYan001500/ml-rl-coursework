@@ -1,0 +1,13 @@
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+scikit-image
+tensorflow
+keras-tuner
+gymnasium
+tqdm
+comet-ml
